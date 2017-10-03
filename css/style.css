@@ -1,0 +1,221 @@
+body {
+	color: black;
+}
+
+.wrapper{
+	max-width: 1200px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.boxheader h2 {
+	position: absolute;
+	font-family: Futura;
+	text-transform: uppercase;
+	font-size: 50px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: white;
+	text-align: left;
+	   margin-left: 60px;
+    margin-top: 40px;
+    
+}
+
+
+
+.boxheader h2 a {
+	color: white;
+    
+}
+
+.boxheader h3 a {
+	color: white;
+    
+}
+nav li h1 {
+	text-align: right;
+	margin-right: 0px;
+	font-size: 30px;
+}
+
+nav li p {
+	text-align: right;
+	margin-right: 330px;
+	font-style: italic;
+}
+.boxheader h3 {
+	position: absolute;
+	font-family: Futura;
+	text-transform: uppercase;
+	font-size: 55px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: white;
+	text-align: left;
+	   margin-left: 95Px;
+    margin-top: 40px;
+    
+}
+
+
+
+.boxheader {
+	margin: 5px;
+	max-width: 580px;
+	padding: 5px;
+	width: 100%;
+	float: left;
+	: 2px solid black;
+	}
+
+	.boxheader img {
+		max-width: 580px;
+	max-height: 450px;
+	width: 100%;
+
+}
+
+.boxheader p {
+	position: absolute;
+	font-family: Futura;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: white;
+	text-align: left;
+	   margin-left: 80px;
+    margin-top: 95px;
+    }
+
+     .po p {
+	position: absolute;
+	font-family: Futura;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: white;
+	text-align: left;
+	   margin-left: 200px;
+    margin-top: 95px;
+    }
+button {
+      background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Futura;
+    letter-spacing: 1px;
+    position: absolute;
+    margin-left: 465px;
+       margin-top: 470px;
+}
+
+header {
+	margin: 0 auto;
+	text-align: center;
+}
+
+header img {
+
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+nav { 
+	max-width: 1200px;
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+		text-align: right;
+
+
+		border-bottom: 1px solid gray;
+
+
+	
+}
+nav li {
+	display: inline-block;
+	margin: 15px;
+	margin-right: 50px;
+	font-family: Futura;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 11px;
+	text-align: right;
+}
+
+li a {
+	text-decoration: none;
+		color: black;
+			text-align: right;
+			padding: 5px;
+	}
+li a:hover:not(.active) {
+    color: #f1f1f1;
+    	text-decoration: none;
+
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+footer {
+	padding-top: 20px;
+	padding: 10px;
+	clear: both;
+	background-color: #f1f1f1;
+	padding: 10px;
+}
+
+footer p {
+	color: #b2b2b2;
+	font-family: Avenir;
+	font-size: 13px;
+	padding: 25px;
+	text-align: center;
+
+}
+
+.container1 {
+	width: 100px;
+	margin-top: 200px;
+	position: absolute;
+	font-family: Futura;
+}
+button.btn-lg{
+	width: 200px;
+	margin-top: 260px;
+	margin-left: 440px;
+	background-color: #cccccc;
+	padding: 10px;
+	position: absolute;
+		border: none;
+
+}
+
+.control-group button {
+	float: left;
+	border: none;
+	border: white;
+	background-color: gray;
+	margin-top: -6px;
+	margin-left: -23px;
+		font-family: Futura;
+
+}
+
+.control-group {
+	background-color: white;
+		font-family: Futura;
+
+}
